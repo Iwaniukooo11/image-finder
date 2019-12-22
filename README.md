@@ -14,7 +14,7 @@ We are still developing and improving both of those versions
 - cv2
 
 ## Authors
-[Mateusz Iwaniuk] (https://github.com/Iwaniukooo11) 
+[Mateusz Iwaniuk](https://github.com/Iwaniukooo11) 
 Adam Kaniasty  
 
 Special thanks to deepsense.ai company
