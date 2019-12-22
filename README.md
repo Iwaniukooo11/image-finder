@@ -1,7 +1,8 @@
 # Cansat Competition
-======
 BETA image finder in python for the CanSat copetition.
 There will be 2 main project of mission - Image finder and Area analizer
+
+## Folder description
 
 At the moment, there is only one,still developing project for the first mission.
 It is divided into 2 versions - Project A and project B.
