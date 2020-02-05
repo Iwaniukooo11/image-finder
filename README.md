@@ -4,9 +4,11 @@ There will be 2 main project of mission - Image finder and Area analizer
 
 ## Folder description
 
-At the moment, there is only one,still developing project for the first mission.\
-It is divided into 2 versions - Project A and project B.\
-We are still developing and improving both of those versions. At the moment, project B works better
+### Project A 
+In this project there was used **resnet50**. Altough there were used great effort, this version of alogirithm doesen't work good enough
+
+### Project B
+In this project there was used **pytorch** and **cv2**. This algoirthm has very big effectiveness and will be used finally in the official mission. 
 
 ## Used technologies
 - pyTorch and resNet50
