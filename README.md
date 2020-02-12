@@ -22,11 +22,11 @@ Finally, looking for the efficiency and end results, we decided to officially us
 ## Example 
 During the fall, probe will be taking photos of the ground. This is one of the pictures taken from drone 
 
-This is example of image taken from the 79m height
-![This is example of image taken from the 79m height](readme/small1_img.JPG)
-
 This is example of image taken from the 60m height
-![This is example of image taken from the 60m height](readme/big1_img.JPG)
+![This is example of image taken from the 60m height](readme/small1_img.JPG)
+
+This is example of image taken from the 35m height
+![This is example of image taken from the 35m height](readme/big1_img.JPG)
 
 And this is the final result:
 ![Result](readme/result1_img.png)
