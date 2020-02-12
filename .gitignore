@@ -1,5 +1,6 @@
 .ipynb_checkpoints
 drive-download-20200204T145128Z-001.zip
+<<<<<<< HEAD
 config3.json
 .ipynb_checkpoints
 .gitignore
@@ -9,3 +10,6 @@ app2.ipynb
 name_changer.py
 photo_saver.py
 test_oficiall
+=======
+.gitignore
+>>>>>>> 2ef21e0c363a11c47cc00934f7790afb055ae70f
