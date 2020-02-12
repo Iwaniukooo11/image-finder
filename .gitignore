@@ -4,6 +4,8 @@ drive-download-20200204T145128Z-001.zip
 config3.json
 .ipynb_checkpoints
 .gitignore
+.vscode
+.idea
 test
 
 app2.ipynb
