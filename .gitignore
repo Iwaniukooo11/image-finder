@@ -9,8 +9,8 @@ config3.json
 test
 
 app2.ipynb
-name_changer.py
-photo_saver.py
+# name_changer.py
+# photo_saver.py
 test_oficiall
 =======
 .gitignore
